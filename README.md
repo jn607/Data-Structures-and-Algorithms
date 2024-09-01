@@ -3,7 +3,7 @@ This repo is used to store my solutions on various Data Structure and Algorithm 
 A mixture of a structured course and leetcode questions will be used to aid my learning.
 
 Structy Course:
-
+<br>
 0. Intro Problems
 1. Array and Strings
 2. Beginner Recursion (current topic)
